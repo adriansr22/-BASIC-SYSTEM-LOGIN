@@ -1,4 +1,4 @@
-# Sistema basico de logeo
+# Sistema básico de logeo
 1 - **Aqui podemos ver un sistema básico para poder iniciar sesión y registrarse**
 
 # Captura de pantalla
