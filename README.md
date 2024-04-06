@@ -4,5 +4,5 @@
 # Captura de pantalla
 2 - Aqui adjunto la captura de pantalla del sitio :
 
-![screenshot](screenshot.jpg)
+![screenshot](screenshot.png)
 
